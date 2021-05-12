@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://methi4801.github.io/csb-qvmfp/static/css/main.e78f0c66.chunk.css",
+    "main.js": "https://methi4801.github.io/csb-qvmfp/static/js/main.0623aaa3.chunk.js",
+    "main.js.map": "https://methi4801.github.io/csb-qvmfp/static/js/main.0623aaa3.chunk.js.map",
+    "runtime-main.js": "https://methi4801.github.io/csb-qvmfp/static/js/runtime-main.e9c6d723.js",
+    "runtime-main.js.map": "https://methi4801.github.io/csb-qvmfp/static/js/runtime-main.e9c6d723.js.map",
+    "static/js/2.445edbd5.chunk.js": "https://methi4801.github.io/csb-qvmfp/static/js/2.445edbd5.chunk.js",
+    "static/js/2.445edbd5.chunk.js.map": "https://methi4801.github.io/csb-qvmfp/static/js/2.445edbd5.chunk.js.map",
+    "index.html": "https://methi4801.github.io/csb-qvmfp/index.html",
+    "static/css/main.e78f0c66.chunk.css.map": "https://methi4801.github.io/csb-qvmfp/static/css/main.e78f0c66.chunk.css.map",
+    "static/js/2.445edbd5.chunk.js.LICENSE.txt": "https://methi4801.github.io/csb-qvmfp/static/js/2.445edbd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9c6d723.js",
+    "static/js/2.445edbd5.chunk.js",
+    "static/css/main.e78f0c66.chunk.css",
+    "static/js/main.0623aaa3.chunk.js"
+  ]
+}
